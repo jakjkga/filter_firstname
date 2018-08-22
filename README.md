@@ -9,7 +9,7 @@ Moodle Filter Plugin which replaces the wildcard {firstname} with the actual fir
 
 ![2 Filtereinstellungen im Kurs](02_Filtereinstellungen_im_Kurs.png)
 
-![3 Filter Kennzeichnung in Textfeldern](03_Filter_Kennzeichnung_in_Textfeldern.png)
+![3 Filter Kennzeichnung in Textfeldern](03_Filter_Kennzeichnung_in_Textfeld.png)
 
 ![4 Filter Firstname Ergebnis](04_Filter_Firstname_Ergebnis.png)
 
